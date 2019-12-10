@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test Project</string>
+
+    <!--Search-->
+    <string name="search_title">Поиск</string>
+
+    <!--Item Currency-->
+    <string name="item_currency_course">Курс: %1$g</string>
+    <string name="item_currency_nominal">Единицы: %1$d</string>
+    <string name="item_currency_summ">Сумма в валюте: %1$g</string>
+
+    <!--    Rate Fragment-->
+    <string name="rates_fragment_summ">Введите сумму в рублях:</string>
+    <string name="rates_fragment_date">Дата: %1$s Время: %2$s</string>
+    <string name="rates_fragment_error">Соединение с интернетом потеряно, данные могут быть неактульные</string>
+</resources>
